@@ -2,7 +2,9 @@
 
 ## How to Use
 Examine all the questions and tick if you fulfill them. If you have a checkbox unticked, you should have justified reasons and discuss them with your supervisor.
-
+- `[✓]` for **Yes**
+- `[x]` for **No**
+- `[n/a]` for **Not Applicable**
 ---
 
 ## Important Sections
