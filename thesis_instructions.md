@@ -2,9 +2,7 @@
 
 ## How to Use
 Examine all the questions and tick if you fulfill them. If you have a checkbox unticked, you should have justified reasons and discuss them with your supervisor.
-- `[✓]` for **Yes**
-- `[x]` for **No**
-- `[n/a]` for **Not Applicable**
+
 ---
 
 ## Important Sections
@@ -89,5 +87,15 @@ Examine all the questions and tick if you fulfill them. If you have a checkbox u
 
 ## Optional (The More You Tick, the Better Your Thesis)
 - [ ] I release public codes of my experiments.
-- [ ] My contributions are original and significant, solving p
+- [ ] My contributions are original and significant, solving problems at the level of a research paper.
+- [ ] Figures use the same font as the main text.
+- [ ] I used booktabs, microtype, and hyperlinks.
+- [ ] My thesis is self-contained, meaning readers do not need extensive external references.
+- [ ] I use the Oxford comma consistently (optional but recommended).
+- [ ] I distinguish between hyphen, en dash, and em dash.
+- [ ] Sections and subsections are not left empty.
+- [ ] Figures are easy to read, even when printed out.
 
+---
+
+Zheng Zhao (zheng.zhao@liu.se), Linköping University. Shared under CC BY-SA 4.0.
